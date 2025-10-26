@@ -310,7 +310,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **JasurCoder**
 
 - Website: [jasurcoder.uz](https://jasurcoder.uz)
-- GitHub: [@jasurcoder](https://github.com/jasurumarov)
+- GitHub: [@jasurumarov](https://github.com/jasurumarov)
 
 ## 🙏 Acknowledgments
 
