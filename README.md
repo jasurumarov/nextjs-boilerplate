@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/jasurcoder/nextjs-boilerplate.git
+git clone https://github.com/jasurumarov/nextjs-boilerplate.git
 cd nextjs-boilerplate
 ```
 
